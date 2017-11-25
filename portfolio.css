@@ -1,0 +1,11 @@
+.nav {
+  .open>a {
+    background-color: transparent;
+    &:hover {
+      background-color: transparent;
+    }
+    &:focus {
+      background-color: transparent;
+    }
+  }
+}
